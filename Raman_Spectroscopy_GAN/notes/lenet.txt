@@ -1,0 +1,8 @@
+Энэ нь их эртний Neural Network architecture бөгөөд 1998 онд Yann LeCun хөгжүүлэгдсэн. Гар бичмэл болон машин хэвлэсэн тэмдэгтүүдийг таних зорилгоор бүтээгдсэн. Мөн бусад Deep learning model үүдийн үндэс болсон.
+
+7 давхаргаас тогтдог. 
+input -> 
+2 * (Conv + Avg/Max pooling)
++ Flatten
++ 2 * fully connected layer
++ Softmax -> output
