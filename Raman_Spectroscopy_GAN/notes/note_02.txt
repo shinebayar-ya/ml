@@ -1,7 +1,34 @@
-Raman Spectroscopy | Quantum theory of Raman effect | Stokes and anti-Stokes line
-Дээрх бичлэгийн ноорог
+# Raman Spectroscopy | Quantum theory of Raman effect | Stokes and anti-Stokes line (YT video draft)
 
-Энэхүү бичлэг нь ppt хэлбэрээр буюу slide ашигласан байсан.
+When monochromatic light reflected into matter, some of light scattered.
+Break down the scattering lights:
+- Rayleigh scattering (the most part)
+- Raman scattering (the small part)
 
-Эхний хэсэгт гэрлийн сарнилтын тухай авч үзсэн.
-Энэ нь юу вэ гэхлээр үзэгдэх гэрлийн туяаг өөртөө гэрлийг шингээдэггүй материалруу тусгасан гэж бодоё. Ингэхийн бол мэдээж бидний амьдралын харах ухаанаар бодох юм бол ихэнх гэрэл нь нэвтэрч гарах буюу гэрэл тухайн материалаар дамжин гарах болно. Аа гэхдээ бас зарим хэсэг нь болохоор бүх чиглэлд цацардаг гэнээ. Эдгээр цацарсан гэрлийг бид гэрэл сарних гэж үзэгдэл гэж үзээд байгаа. За тэгээд ер нь гэрлийн туяа ямарваа нэгэн материал дээр тусах юм бол хэд хэдэн үзэгдэл бий болдог. За үүнд болохоор гэрэл сарних, буцаж ойх, гэрэл шингэх, гэрэл нэвтрэн гарах гэсэн үзэгдлүүд бий болдог. За энэ ч яахав гол зүйлрүүгээ орцгооё. Тэгэхээр эдгээр цацарсан гэрлийн ихэнх хэсэг нь анхны тусгасан гэрлийн давтамжтай нь ижил байдаг. За үүнийг болохоор Rayleigh scattering гэдэг байх нь. За үүнийг нэг эрдэмтэн нээсэн тэр хүн өөрийнхөө нэрээр энэхүү үзэгдлийг нэрлэсэн. Заа энэ тэгээд тэнгэр яагаад цэнхэр өнгөтэй байдаг вэ? гэдгийг шалтгаан эсвэл тэнгэр цэнхэр байдгаас энэ зүйлийг мэдсэн байх нь. Физик гэдэг нь ерөнхийдөө бол ажиглалт шүү дээ. Зиа заа одоо жоохон гол сэдэв рүүгээ орох болж байна. Тэхлээр энэ цацарсан туяа буюу сарнисан гэрлийн маань Рэйлийн сарнилтаас гадна багахан хэсэг нь долгионы давтамжаа өөрчилсөн байдаг. Үүний шалтгаан нь моль mole мэдэхгүй санахгүй байна. Заа тэгээд энэ жоохон өөрчлөлт орсон хэсгийн болохоор бид Раман спектр нэршдэг байна. Үүнийг Энэтхэгийн алдарт физикч нээсэн үүгээрээ 1930 онд Нобель гэх эрхэм хүндтэй шагналын эзэн болжээ. Заа энэхүү зүйл яахлээрээ нобель авах хэмжээний зүйл болчихвоо. 
+Rayleigh scattering freq = incident light freq
+Raman scattering freq = incident light freq + diff
+
+Spectroscopy is study of interactions between light and matter.
+
+Raman spectroscopy is study of spectral that based on Raman effect.
+
+Raman effect is based on molecules vibrational, rotational modes.
+
+How to gain or loss energy?
+
+elastic collision is no gain or loss of energy by molecule. (Rayleigh scattering)
+(freq scattering) f_s = f_i (freq incident)
+
+inelastic collision is exchanged energy between molecule & incident radiation.
+Related to Raman scattering
+f_s != f_i
+E` != E
+
+Stokes shift vs Anti-Stokes shift
+Y_s < Y_i vs Y_s > Y_i
+dE > 0 vs dE < 0
+
+energy is gain or loss related to vibrational energy level
+
+intensity depends on the population of the energy levels.
+
